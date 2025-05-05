@@ -12,3 +12,8 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
+
+img {
+width: 300px;
+height: 200px;
+}
